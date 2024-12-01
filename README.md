@@ -54,7 +54,7 @@ recipe-app/
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/recipe-app.git
+   git clone https://github.com/Nihagithub/recipe-app.git
    ```
 
 2. Navigate into the project directory:
